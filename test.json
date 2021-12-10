@@ -1,0 +1,1 @@
+{"str1": "RECORD", "str2": "OF", "str3": "UNITED", "x1": 100, "x2": 50, "x3": 20, "y1": 200, "y2": -50, "y3": 10, "width": 400, "height": 600, "rec": false, "ignore": true, "partial_check": true, "partial_value": 4, "expected_check": false, "expected_value": 1, "delete": true, "ignore_noise": false}
